@@ -1,0 +1,1607 @@
+{
+    "1INCH": {
+        "name": "1inch",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20201225/7898209b-dbee-4ba6-8c66-804d001cf4c9.png",
+        "cmp": "8104"
+    },
+    "AAVE": {
+        "name": "Aave",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20201016/aef99369-1a90-4af0-9c19-f3a78c4a8386.png",
+        "cmp": "7278"
+    },
+    "ACM": {
+        "name": "AC Milan Fan Token",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20210224/78c47d06-6f8d-40b7-b3b2-9697853e85d1.png",
+        "cmp": "8538"
+    },
+    "ADA": {
+        "name": "Cardano",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20201110/3bc4f3c3-c142-4379-9ebd-a72f332776bc.png",
+        "cmp": "2010"
+    },
+    "ADX": {
+        "name": "AdEx",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191211/91218f05-8db0-4f1b-a91a-fa72c61b83f4.png",
+        "cmp": "1768"
+    },
+    "AE": {
+        "name": "Aeternity",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191211/8cde9282-b8d0-458f-bd77-a3f17f7a8775.png",
+        "cmp": "1700"
+    },
+    "AERGO": {
+        "name": "Aergo",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191120/192062ba-8c97-462b-8e8d-ceebd6af65e7.png",
+        "cmp": "3637"
+    },
+    "AGI": {
+        "name": "SingularityNET",
+        "logo": "https://ex.bnbstatic.com/images/20180605/image_1528183131596.png",
+        "cmp": "2424"
+    },
+    "AION": {
+        "name": "AION",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191205/80528563-f821-468b-9457-ce944a0d68e6.jpg",
+        "cmp": "2062"
+    },
+    "AKRO": {
+        "name": "Akropolis",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20201102/31939621-7d59-4a6f-9c71-3b5415a6bde4.png",
+        "cmp": "4134"
+    },
+    "ALGO": {
+        "name": "Algorand",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191211/c89576b9-2fe3-4998-bc66-e588ff37a238.jpg",
+        "cmp": "4030"
+    },
+    "ALICE": {
+        "name": "My Neighbor Alice",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20210315/2d82cb18-d836-4a1f-bee4-399f20ee0b22.png",
+        "cmp": "8766"
+    },
+    "ALPHA": {
+        "name": "Alpha Finance Lab",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20210331/59069b38-6eca-4e03-9623-5e4e9b051f21.png",
+        "cmp": "7232"
+    },
+    "AMB": {
+        "name": "Ambrosus",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191211/f4557996-859c-40fd-9e51-b877a9c891ae.png",
+        "cmp": "2081"
+    },
+    "ANKR": {
+        "name": "Ankr",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20200428/3cd56eba-9709-415c-89bf-771f655530e4.png",
+        "cmp": "3783"
+    },
+    "ANT": {
+        "name": "Aragon",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20200813/7966d922-2e1c-422f-852a-36cf714c6566.png",
+        "cmp": "1680"
+    },
+    "APPC": {
+        "name": "AppCoins",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191211/db6f2a95-382f-40ac-9959-c4fba08bf03f.png",
+        "cmp": "2344"
+    },
+    "ARDR": {
+        "name": "Ardor",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191211/8ad36e2c-526c-4fbb-87d5-2bc66d2598e8.png",
+        "cmp": "1320"
+    },
+    "ARK": {
+        "name": "Ark",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191211/31fea7a1-1bcf-4738-95d4-7b64b88ee555.png",
+        "cmp": "1586"
+    },
+    "ARPA": {
+        "name": "ARPA Chain",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191211/d2f05b7e-25c3-4403-9249-0861c221a6c9.png",
+        "cmp": "4039"
+    },
+    "ASR": {
+        "name": "AS Roma Fan Token",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20201223/32ff8f55-c0ff-4793-bf21-16a8c71f6c16.png",
+        "cmp": "5229"
+    },
+    "AST": {
+        "name": "AirSwap",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191211/20641262-0d74-4461-bc8f-e214d6047284.png",
+        "cmp": "2058"
+    },
+    "ATM": {
+        "name": "Atlético de Madrid Fan Token",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20201223/110926c8-e826-4649-aa3e-1b0622c239cc.png",
+        "cmp": "5227"
+    },
+    "ATOM": {
+        "name": "Cosmos",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20201110/b6b0ea3d-995f-4c16-b635-c76a21c0a726.png",
+        "cmp": "3794"
+    },
+    "AUCTION": {
+        "name": "Auction",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20210224/81fb7676-fedb-42e0-b227-b9f219baf8a3.png",
+        "cmp": "8602"
+    },
+    "AUD": {
+        "name": "Australian Dollar",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20200610/385812f1-2e25-4043-9679-cc5bed825aff.png",
+        "cmp": "null"
+    },
+    "AUDIO": {
+        "name": "Audius",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20201023/234edf05-257f-4a1f-ae69-ba4eb9f98f31.png",
+        "cmp": "7455"
+    },
+    "AUTO": {
+        "name": "Auto",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20210402/1a0fb3d5-071a-4684-943d-f009ab05c022.png",
+        "cmp": "8387"
+    },
+    "AVA": {
+        "name": "Travala.com",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20200805/822d3a92-b87e-4d15-9b7a-f3165d4f53e9.png",
+        "cmp": "2776"
+    },
+    "AVAX": {
+        "name": "Avalanche",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20200922/3fc414d2-c33b-4c01-8138-0b0acac5657b.png",
+        "cmp": "5805"
+    },
+    "AXS": {
+        "name": "Axie Infinity",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20201102/0f90eacf-704e-46bc-914d-ccb009dd1709.png",
+        "cmp": "6783"
+    },
+    "BADGER": {
+        "name": "Badger DAO",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20210302/83ed5cb5-24d1-4ef2-8c56-80275f0afdad.png",
+        "cmp": "7859"
+    },
+    "BAKE": {
+        "name": "BakeryToken",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20200924/30972bcc-98ad-4c6a-bf54-8a7371d8e377.png",
+        "cmp": "7064"
+    },
+    "BAL": {
+        "name": "Balancer",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20200806/14944293-f97c-4c9c-95e8-17a3cbdb6cd9.png",
+        "cmp": "5728"
+    },
+    "BAND": {
+        "name": "BAND",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191211/a695c83b-6b45-4924-91c7-2b65625ce10f.png",
+        "cmp": "4679"
+    },
+    "BAR": {
+        "name": "FC Barcelona Fan Token BAR",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20210420/e1d336e6-f4d2-41da-86f0-ec1b6dd65de6.png",
+        "cmp": "5225"
+    },
+    "BAT": {
+        "name": "Basic Attention Token",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191211/b87dedcf-edaa-4069-bfad-de7f88d7204e.png",
+        "cmp": "1697"
+    },
+    "BCD": {
+        "name": "Bitcoin Diamond",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191211/9f52cae9-b3d7-4124-99c9-e8ccbe73a92d.png",
+        "cmp": "2222"
+    },
+    "BCH": {
+        "name": "Bitcoin Cash",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20201110/db45566d-6c97-4944-937e-1b6333be3a7f.png",
+        "cmp": "1831"
+    },
+    "BCHA": {
+        "name": "Bitcoin Cash ABC",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20201116/cecb9455-3144-4998-ae40-b59745b594b5.png",
+        "cmp": "7686"
+    },
+    "BCPT": {
+        "name": "Blockmason Credit Protocol",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191211/64d6d91f-e8e0-4d91-828a-e2cbc51d73e0.png",
+        "cmp": "2061"
+    },
+    "BEAM": {
+        "name": "Beam",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191211/2a3788d1-5f5f-4a1f-abec-ac96528f5a33.png",
+        "cmp": "3702"
+    },
+    "BEL": {
+        "name": "Bella Protocol",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20200908/7578b4e5-2192-4f38-a74f-f1e9843f8a99.png",
+        "cmp": "6928"
+    },
+    "BETH": {
+        "name": "BETH",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20201230/c4f276e4-512f-491b-b651-9776578c9b79.png",
+        "cmp": "8353"
+    },
+    "BGBP": {
+        "name": "Binance GBP Stable Coin",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191211/a886acbf-31ce-44ea-9b4e-3976cd838751.png",
+        "cmp": "null"
+    },
+    "BIFI": {
+        "name": "Beefy.Finance",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20210316/e495559b-0a95-4f84-83dd-c8ada70312b8.png",
+        "cmp": "7311"
+    },
+    "BLZ": {
+        "name": "Bluzelle",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191211/ecb68c7d-55cd-4249-a125-e0571adb6bec.png",
+        "cmp": "2505"
+    },
+    "BNB": {
+        "name": "BNB",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20201110/550eda20-1b9a-4bc7-9a65-e4a329e8bb57.png",
+        "cmp": "1839"
+    },
+    "BNT": {
+        "name": "Bancor",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191211/8250cbf3-31d8-47ed-ab4b-05162c794990.png",
+        "cmp": "1727"
+    },
+    "BOT": {
+        "name": "Bounce Token (OLD)",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20201029/c370ea20-d2ba-4f11-a4e9-ca53ba0f90d2.png",
+        "cmp": "6365"
+    },
+    "BQX": {
+        "name": "Voyager Token",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191211/1b12c13f-23d3-4ae0-8a77-d0453c5a40a8.png",
+        "cmp": "null"
+    },
+    "BRD": {
+        "name": "Bread",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191211/cb3e86db-f013-480e-ade0-dc05fbd41e5e.png",
+        "cmp": "2306"
+    },
+    "BTC": {
+        "name": "Bitcoin",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20201110/87496d50-2408-43e1-ad4c-78b47b448a6a.png",
+        "cmp": "1"
+    },
+    "BTCST": {
+        "name": "Bitcoin Standard Hashrate Token",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20210107/42cb93e4-4078-43f4-afa3-1f0c350e7483.png",
+        "cmp": "8891"
+    },
+    "BTG": {
+        "name": "Bitcoin Gold",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191211/262ad6d4-eb36-4288-aaf0-c127bace866f.png",
+        "cmp": "2083"
+    },
+    "BTS": {
+        "name": "BitShares",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191211/213abd58-e804-46aa-aa33-fea811fbbf4e.png",
+        "cmp": "463"
+    },
+    "BTT": {
+        "name": "BitTorrent",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20201110/da9671d4-9382-43fe-80d4-cd62015a8ecc.png",
+        "cmp": "3718"
+    },
+    "BURGER": {
+        "name": "Burger Swap",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20200924/100371f3-4105-4c0b-9c06-59ce75472e19.png",
+        "cmp": "7158"
+    },
+    "BUSD": {
+        "name": "BUSD",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20201110/3222a10d-5618-4100-8476-ee7fe0a6fb12.png",
+        "cmp": "4687"
+    },
+    "BZRX": {
+        "name": "bZx Protocol",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20200829/fc2b12b9-3774-45c0-9d74-a4e8fd519134.png",
+        "cmp": "5810"
+    },
+    "CAKE": {
+        "name": "PancakeSwap",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20210225/173bde4e-7d81-4ee6-832d-6063a33d5275.png",
+        "cmp": "7186"
+    },
+    "CDT": {
+        "name": "Blox",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191211/53a1f219-a8a5-409c-b1dc-3a6e92202b42.png",
+        "cmp": "1864"
+    },
+    "CELO": {
+        "name": "Celo",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20201221/538ce541-8437-4dc9-be0e-e09d1c07375a.png",
+        "cmp": "5567"
+    },
+    "CELR": {
+        "name": "Celer Network",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191211/5c9b1c61-4605-4795-82ad-1206d01b54a9.png",
+        "cmp": "3814"
+    },
+    "CFX": {
+        "name": "Conflux Network",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20210329/47a8bb83-56f2-4d5c-b9cf-4eaa83cb822f.png",
+        "cmp": "7334"
+    },
+    "CHR": {
+        "name": "Chromia",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20200507/1ca0e8c6-e5bc-4cf3-94ee-2a5621afff67.png",
+        "cmp": "3978"
+    },
+    "CHZ": {
+        "name": "Chiliz",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191211/721a863b-5c9d-4061-a2f0-d288dcd3d1ad.png",
+        "cmp": "4066"
+    },
+    "CKB": {
+        "name": "CKB",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20210126/f8cb5623-f48b-4ee3-9990-ecac69c945bc.png",
+        "cmp": "4948"
+    },
+    "CMT": {
+        "name": "CyberMiles",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191211/7899c2e8-05e4-496f-99c9-d9c6d25bad51.png",
+        "cmp": "2246"
+    },
+    "CND": {
+        "name": "Cindicator",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191211/499eeddb-451f-4d49-9515-c5c32d469a83.png",
+        "cmp": "2043"
+    },
+    "COCOS": {
+        "name": "Cocos-BCX",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191211/ad72cd9e-60a0-4a9b-b44d-86047c484495.png",
+        "cmp": "4275"
+    },
+    "COMP": {
+        "name": "Compound",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20201110/bbe7fb63-5b85-4f5a-9c7f-450a8cec116b.png",
+        "cmp": "5692"
+    },
+    "COS": {
+        "name": "Contentos",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191211/3cb8b31e-c6b4-4d83-b7fd-25c7a470404d.png",
+        "cmp": "4036"
+    },
+    "COTI": {
+        "name": "COTI",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20200224/b74f4936-1145-48ee-a779-51341d1572f0.png",
+        "cmp": "3992"
+    },
+    "COVER": {
+        "name": "COVER Protocol",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20201205/4f0a86ca-fc49-4820-96e2-6756aa139d7f.png",
+        "cmp": "8175"
+    },
+    "CREAM": {
+        "name": "Cream Finance",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20200916/771e5b86-cd06-4107-bbcb-44e5dd65ae3a.png",
+        "cmp": "6193"
+    },
+    "CRV": {
+        "name": "Curve",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20200814/f8d49a7f-d950-4e26-922f-42b11bd95584.png",
+        "cmp": "6538"
+    },
+    "CTK": {
+        "name": "CertiK",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20201022/f768f801-b945-473d-bbb6-b6daca650a18.png",
+        "cmp": "4807"
+    },
+    "CTSI": {
+        "name": "Cartesi",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20200421/d9b34d91-96e4-4539-b985-30dbfe933285.png",
+        "cmp": "5444"
+    },
+    "CTXC": {
+        "name": "Cortex",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191211/e07316d8-d579-4398-9a56-61834f167fb1.png",
+        "cmp": "2638"
+    },
+    "CVC": {
+        "name": "Civic",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191211/f9198c3e-089d-442b-a8ce-0f09aa3a7ea7.png",
+        "cmp": "1816"
+    },
+    "CVP": {
+        "name": "PowerPool",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20201116/3bae43ff-35b2-45c9-a8f4-698a7f2876ec.png",
+        "cmp": "6669"
+    },
+    "DASH": {
+        "name": "Dash",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20201110/c050f81f-97d8-445c-9f3b-619bbb644cb0.png",
+        "cmp": "131"
+    },
+    "DATA": {
+        "name": "Streamr DATAcoin",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191211/62947b15-d49a-4740-8463-7de6ec5b8db7.png",
+        "cmp": "2143"
+    },
+    "DCR": {
+        "name": "Decred",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191211/c5df50d2-d46d-40c6-946f-a1554bc8b9e9.png",
+        "cmp": "1168"
+    },
+    "DEGO": {
+        "name": "Dego Finance",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20210310/ca7706c2-ea3f-4c6d-a27b-281259b7fa75.png",
+        "cmp": "7087"
+    },
+    "DENT": {
+        "name": "DENT",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191211/c25c6234-d556-4c4e-841d-b8cdc2e363ff.png",
+        "cmp": "1886"
+    },
+    "DEXE": {
+        "name": "DeXe",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20210121/dbddb6a1-3895-4fa3-99d0-2f9f1481011b.png",
+        "cmp": "7326"
+    },
+    "DF": {
+        "name": "dForce",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20201211/aa3e1981-e4d9-430c-93dc-25f9c5e86bdd.png",
+        "cmp": "4758"
+    },
+    "DGB": {
+        "name": "DigiByte",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20200622/93051a23-b32f-45ca-bbc0-819651caaf11.png",
+        "cmp": "109"
+    },
+    "DIA": {
+        "name": "DIA",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20200902/cb2cc5d2-312f-483a-8a7d-3de60e4e7840.png",
+        "cmp": "6138"
+    },
+    "DLT": {
+        "name": "Agrello",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191211/dc9f9e27-b26f-4e80-b299-935de7b8ff5f.png",
+        "cmp": "1949"
+    },
+    "DNT": {
+        "name": "district0x",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191211/d03f3655-0b0c-45ba-97b4-63c041805d2a.png",
+        "cmp": "1856"
+    },
+    "DOCK": {
+        "name": "DOCK",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20210430/39e4c97a-e95e-4268-ace8-40f0d723cd1d.jpg",
+        "cmp": "2675"
+    },
+    "DODO": {
+        "name": "DODO",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20210218/4b7a91f3-0a9a-4ca1-8e7f-128370eba08b.png",
+        "cmp": "7224"
+    },
+    "DOGE": {
+        "name": "Dogecoin",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20201110/22ef2baf-b210-4882-afd9-1317bb7a3603.png",
+        "cmp": "74"
+    },
+    "DOT": {
+        "name": "Polkadot",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20201110/c54babae-ff1a-437e-826a-637201d6c152.png",
+        "cmp": "6636"
+    },
+    "DREP": {
+        "name": "DREP",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20200116/66337847-2bb4-42bd-9d32-5950a76a6b08.png",
+        "cmp": "9148"
+    },
+    "DUSK": {
+        "name": "Dusk Network",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191211/3376691f-fafc-4de5-afc2-74de713bc012.png",
+        "cmp": "4092"
+    },
+    "EASY": {
+        "name": "EasyFi",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20201023/a13182a8-daef-452f-bf3e-d7dd40a1d42c.png",
+        "cmp": "7332"
+    },
+    "EGLD": {
+        "name": "Elrond eGold",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20200827/3333bad6-7dc4-4687-93cf-9f57442af7ae.png",
+        "cmp": "6892"
+    },
+    "ELF": {
+        "name": "aelf",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191211/5834e785-a402-4a1d-b7ed-9269bfc019c1.png",
+        "cmp": "2299"
+    },
+    "ENG": {
+        "name": "Enigma",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191211/97c402e7-f2f2-4f73-adab-1c7d43101db5.png",
+        "cmp": "null"
+    },
+    "ENJ": {
+        "name": "Enjin Coin",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191212/7b92e616-13f1-40e2-a691-af6aee1586d5.png",
+        "cmp": "2130"
+    },
+    "EOS": {
+        "name": "EOS",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20201110/09f93059-fe85-42cc-96b7-603ef6da07c6.png",
+        "cmp": "1765"
+    },
+    "EPS": {
+        "name": "Ellipsis",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20210402/04fa6e7c-9958-4c4d-a65a-53bab409eb8e.png",
+        "cmp": "8938"
+    },
+    "ETC": {
+        "name": "Ethereum Classic",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20201110/00454e4d-b30f-4fef-bf8b-5b5fbc4b8f1e.png",
+        "cmp": "1321"
+    },
+    "ETH": {
+        "name": "Ethereum",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20201110/3a8c9fe6-2a76-4ace-aa07-415d994de6f0.png",
+        "cmp": "1027"
+    },
+    "EUR": {
+        "name": "Euro",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20200610/5d13145e-c557-4519-96b6-360f8e8e1f02.png",
+        "cmp": "null"
+    },
+    "EVX": {
+        "name": "Everex",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191211/de225364-b749-45d2-8651-cab2496c26c3.png",
+        "cmp": "2034"
+    },
+    "FET": {
+        "name": "Fetch.AI",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20200424/fbb6b506-aba1-4f18-86c5-f5d07bdf0782.png",
+        "cmp": "3773"
+    },
+    "FIL": {
+        "name": "Filecoin",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20201014/6e56be27-4780-4dc7-ac1c-ec7f88940697.png",
+        "cmp": "2280"
+    },
+    "FIO": {
+        "name": "FIO Protocol",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20201110/7275480f-1d51-445c-97e6-5eb66f3a9392.png",
+        "cmp": "5865"
+    },
+    "FIRO": {
+        "name": "Firo",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20210125/e8b5905e-633d-4a4b-9a79-f08e6ec594c4.png",
+        "cmp": "1414"
+    },
+    "FIS": {
+        "name": "Stafi",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20210303/03fb7293-60db-4230-9236-695928686ae5.png",
+        "cmp": "5882"
+    },
+    "FLM": {
+        "name": "Flamingo",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20200925/03acdafd-5e76-4cba-a7e5-4c6231012ce7.png",
+        "cmp": "7150"
+    },
+    "FOR": {
+        "name": "ForTube",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20201218/1a9d9e86-72b9-4b71-8b19-69793c142f6c.png",
+        "cmp": "4118"
+    },
+    "FRONT": {
+        "name": "Frontier",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20201118/cc5855c9-4869-4f20-99d8-6c999f475dbe.png",
+        "cmp": "5893"
+    },
+    "FTM": {
+        "name": "Fantom",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191211/94650447-45c9-417d-be69-e74073fcc149.png",
+        "cmp": "3513"
+    },
+    "FTT": {
+        "name": "FTX Token",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191220/93f2bf75-970e-44b8-9773-20e141a6c8f9.png",
+        "cmp": "4195"
+    },
+    "FUN": {
+        "name": "FunToken",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20210114/b7bbc63e-2434-4512-8143-e2b0d3abffa5.png",
+        "cmp": "1757"
+    },
+    "FXS": {
+        "name": "Frax Share",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20210218/bb15375b-eed0-41b9-9596-0cfdf9879173.png",
+        "cmp": "6953"
+    },
+    "GAS": {
+        "name": "NeoGas",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20200226/87b27de0-30ca-4d08-8f5e-7453120e2689.png",
+        "cmp": "1785"
+    },
+    "GBP": {
+        "name": "Pound Sterling",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20200610/fa7c8ac0-b3ec-4a9d-9528-a1faf551eff1.png",
+        "cmp": "null"
+    },
+    "GHST": {
+        "name": "Aavegotchi",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20201208/9cbb76fd-b2bb-4465-a3a9-ce98b7e620c8.png",
+        "cmp": "7046"
+    },
+    "GLM": {
+        "name": "Golem",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20201203/fb4c6f30-58f3-4e9d-978e-d324500345d8.png",
+        "cmp": "1455"
+    },
+    "GNT": {
+        "name": "Golem",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191211/dcaec63e-5c16-4114-aec8-c611a9ead827.png",
+        "cmp": "1455"
+    },
+    "GO": {
+        "name": "GoChain",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20210331/b650275e-8cb4-4cf1-98ce-66eb910ab921.png",
+        "cmp": "2861"
+    },
+    "GRS": {
+        "name": "Groestlcoin",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191211/591969c8-5786-4f7d-b5cb-e0a429ac5020.png",
+        "cmp": "258"
+    },
+    "GRT": {
+        "name": "The Graph",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20201217/a6334ee8-73a2-4380-abdd-761bb2f9dff8.png",
+        "cmp": "6719"
+    },
+    "GTO": {
+        "name": "Gifto",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191211/3f86c61d-a386-4db4-bfc5-cd740b54ef7c.png",
+        "cmp": "2289"
+    },
+    "GVT": {
+        "name": "Genesis Vision",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191211/64c1d33a-ef13-408b-8346-3b3354654071.png",
+        "cmp": "2181"
+    },
+    "GXS": {
+        "name": "GXChain",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191211/50b855c6-12c3-4d58-afa7-d06144a451d2.png",
+        "cmp": "null"
+    },
+    "HARD": {
+        "name": "HARD Protocol",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20201103/a38a9934-3802-4517-a460-5f3b1482d484.png",
+        "cmp": "7576"
+    },
+    "HBAR": {
+        "name": "Hedera Hashgraph",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191211/c782ed58-b16f-4b21-9779-1d475efb3a81.png",
+        "cmp": "4642"
+    },
+    "HC": {
+        "name": "HyperCash",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191211/21d02f93-0eec-4e93-8b78-e8d37fc4be13.png",
+        "cmp": "1903"
+    },
+    "HEGIC": {
+        "name": "Hegic",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20201125/2b1ab7a2-54f9-4268-93b8-69851c81694f.png",
+        "cmp": "6929"
+    },
+    "HIVE": {
+        "name": "Hive",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20200322/a79b224c-1a00-4fc0-84dc-5cf12b40a006.png",
+        "cmp": "5370"
+    },
+    "HNT": {
+        "name": "Helium",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20200924/c3ce0eb3-e6c3-4498-9bb2-c573c4dd7ffe.png",
+        "cmp": "5665"
+    },
+    "HOT": {
+        "name": "Holo",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191211/772281f0-386f-4582-95ac-15df3e75c2a2.png",
+        "cmp": "2682"
+    },
+    "ICX": {
+        "name": "ICON",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191211/6cc30281-0724-46c1-bfca-ff96ab60fccd.png",
+        "cmp": "2099"
+    },
+    "IDEX": {
+        "name": "IDEX",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20200822/1402838f-9f19-420d-bf8d-db580b87f681.png",
+        "cmp": "3928"
+    },
+    "INJ": {
+        "name": "Injective Protocol",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20201019/383e18cf-53cd-44b9-b781-4e85818ecfb8.png",
+        "cmp": "7226"
+    },
+    "INR": {
+        "name": "Rupee",
+        "logo": "https://media.wazirx.com/media/inr/84.png",
+        "cmp": ""
+    },
+    "IOST": {
+        "name": "IOST",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191211/ac3c4be1-e585-4923-bd1d-d8e19a8c4a6c.png",
+        "cmp": "2405"
+    },
+    "IOTA": {
+        "name": "MIOTA",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191211/de02e5d5-8a24-401c-ba14-1db8aaff4d22.png",
+        "cmp": "null"
+    },
+    "IOTX": {
+        "name": "IoTeX",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191211/86c97fe9-1b7d-41ca-b5d4-a646baa22f47.png",
+        "cmp": "2777"
+    },
+    "IQ": {
+        "name": "Everipedia",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191211/7b83f479-9064-48a8-b573-96b45e3b657e.png",
+        "cmp": "2930"
+    },
+    "IRIS": {
+        "name": "IRISnet",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20200706/bfd69817-7dcf-4071-820d-db987a90b96c.png",
+        "cmp": "3874"
+    },
+    "JST": {
+        "name": "JUST",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20200522/3dbaccf0-e55c-4bf6-ac6c-d8ea9b7943f0.png",
+        "cmp": "5488"
+    },
+    "JUV": {
+        "name": "Juventus Fan Token",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20201214/4593569d-c4cb-460e-8ba4-923d5154cf5d.png",
+        "cmp": "5224"
+    },
+    "KAVA": {
+        "name": "Kava",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20200424/47687ce7-57a6-4965-96ae-b5592cb609a8.png",
+        "cmp": "4846"
+    },
+    "KEY": {
+        "name": "Selfkey",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191211/67dc888d-f081-437d-aa13-f29b3762298e.png",
+        "cmp": "2398"
+    },
+    "KMD": {
+        "name": "Komodo",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191211/fe11adb6-ef37-4cbe-a6fd-01cfcc26c43f.png",
+        "cmp": "1521"
+    },
+    "KNC": {
+        "name": "KyberNetwork",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191211/27eaf4f6-65b5-403c-a461-2faed8959419.png",
+        "cmp": "1982"
+    },
+    "KP3R": {
+        "name": "Keep3rV1",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20201103/eb0df429-a845-4bf0-bf6c-f99e9410cbfb.png",
+        "cmp": "7535"
+    },
+    "KSM": {
+        "name": "Kusama",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20200831/d3073144-b468-4437-b917-578c5efb0c22.png",
+        "cmp": "5034"
+    },
+    "LINA": {
+        "name": "Linear",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20210318/86943608-2053-4ec7-b78e-ff9ff04aeb27.png",
+        "cmp": "7102"
+    },
+    "LINK": {
+        "name": "ChainLink",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20201110/1eda1f7f-585a-4f16-abd7-a7104221414a.png",
+        "cmp": "1975"
+    },
+    "LIT": {
+        "name": "Litentry",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20210128/4499a763-f048-4d3c-a77a-039e3ff5014e.png",
+        "cmp": "6833"
+    },
+    "LOOM": {
+        "name": "Loom Network",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191211/c4dd6cdc-5b07-4012-a402-a9dbabf1fa22.png",
+        "cmp": "2588"
+    },
+    "LRC": {
+        "name": "Loopring",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191211/73d7ee31-05ca-4297-8c93-4c310350f335.png",
+        "cmp": "1934"
+    },
+    "LSK": {
+        "name": "Lisk",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191211/251bc8d8-be8c-404f-800c-e7b61f0020bb.png",
+        "cmp": "1214"
+    },
+    "LTC": {
+        "name": "Litecoin",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20201110/359ca651-a084-4010-92d8-4eaff96e6384.png",
+        "cmp": "2"
+    },
+    "LTO": {
+        "name": "LTO Network",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20200206/64d802cc-462a-4d1d-85f9-bcece8d8b501.png",
+        "cmp": "3714"
+    },
+    "LUNA": {
+        "name": "Terra",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20200817/1c7bf0aa-8800-4cbc-8caa-5d8d1f7debb6.png",
+        "cmp": "4172"
+    },
+    "MANA": {
+        "name": "Decentraland",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191211/dd08c55d-cde6-4c08-b9b1-35bf74880e17.png",
+        "cmp": "1966"
+    },
+    "MATIC": {
+        "name": "Polygon",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20210407/032e2b13-5def-4449-aaee-0180d90da7c5.jpg",
+        "cmp": "3890"
+    },
+    "MBL": {
+        "name": "MovieBloc",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20200221/76ed03c0-191f-44b9-a447-bc3dc8c14dfa.png",
+        "cmp": "4038"
+    },
+    "MCO": {
+        "name": "MCO",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191211/79d8f66b-dca6-43d7-b841-62ce2e010f0b.png",
+        "cmp": "null"
+    },
+    "MDA": {
+        "name": "Moeda Loyalty Points",
+        "logo": "https://ex.bnbstatic.com/images/20170929/image_1506667555189.png",
+        "cmp": "1954"
+    },
+    "MDT": {
+        "name": "Measurable Data Token",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20200605/fb52441c-c1d0-4bde-a963-7d4d47e3e70e.png",
+        "cmp": "2348"
+    },
+    "MFT": {
+        "name": "Mainframe",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191211/5429b273-e866-4d4d-8ff1-7f611c20e6cc.png",
+        "cmp": "2896"
+    },
+    "MITH": {
+        "name": "Mithril",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191211/c310e0bd-c213-4719-be46-39fe58598261.png",
+        "cmp": "2608"
+    },
+    "MKR": {
+        "name": "Maker",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20201110/44c995cf-d2c4-40d0-a1dd-998a0d947059.png",
+        "cmp": "null"
+    },
+    "MTH": {
+        "name": "Monetha",
+        "logo": "https://ex.bnbstatic.com/images/20190219/cd1219a8-d415-4c51-91ac-154bf69f76c2.png",
+        "cmp": "1947"
+    },
+    "MTL": {
+        "name": "Metal",
+        "logo": "https://ex.bnbstatic.com/images/20170929/image_1506667633982.png",
+        "cmp": "1788"
+    },
+    "NANO": {
+        "name": "NANO",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191212/622eeb19-e123-4325-a157-bef257d9ae79.png",
+        "cmp": "1567"
+    },
+    "NAS": {
+        "name": "Nebulas",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191212/b53d4514-db65-48e6-bcf2-c24498b92e6f.png",
+        "cmp": "1908"
+    },
+    "NAV": {
+        "name": "Navcoin",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20210324/72cc6744-778e-4986-bb9b-cfa339d66533.png",
+        "cmp": "377"
+    },
+    "NBS": {
+        "name": "New BitShares",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20200921/7dc8fcdd-afd9-4f75-8ba8-c9cfb79dd582.png",
+        "cmp": "7110"
+    },
+    "NCASH": {
+        "name": "Nucleus Vision",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191212/3f23824c-d899-46b5-80fb-f77c17653b4f.png",
+        "cmp": "2544"
+    },
+    "NEAR": {
+        "name": "NEAR Protocol",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20210113/8735f305-dc7a-4f10-b2dd-69e424e62e41.png",
+        "cmp": "6535"
+    },
+    "NEBL": {
+        "name": "Neblio",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191212/cdc44b91-f067-4481-948b-73db09cf564e.png",
+        "cmp": "1955"
+    },
+    "NEO": {
+        "name": "NEO",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20201110/88cf746f-31d3-469f-a499-31f7cf20b2cd.png",
+        "cmp": "1376"
+    },
+    "NKN": {
+        "name": "NKN",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191212/2412984d-4a6a-4a15-8247-0cf478e589b1.png",
+        "cmp": "2780"
+    },
+    "NMR": {
+        "name": "Numeraire",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20200817/bfefd59d-ac86-4fd6-875a-f9c41b4e44d8.png",
+        "cmp": "1732"
+    },
+    "NPXS": {
+        "name": "Pundi X[old]",
+        "logo": "https://ex.bnbstatic.com/images/20180620/image_1529483221505.jpg",
+        "cmp": "2603"
+    },
+    "NULS": {
+        "name": "Nuls",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191212/a21154a3-44df-484d-95aa-142d1a5dbc89.png",
+        "cmp": "2092"
+    },
+    "NXS": {
+        "name": "Nexus",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191212/b9210ae3-ae04-4324-be2d-9e4deb3d36db.png",
+        "cmp": "789"
+    },
+    "OAX": {
+        "name": "openANX",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191212/6bacc541-e8cf-44f5-9b8f-43f3a4e1531d.png",
+        "cmp": "1853"
+    },
+    "OCEAN": {
+        "name": "Ocean Protocol",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20200817/ba1b97fe-97a0-4a8a-9f13-26ef41e0ec94.png",
+        "cmp": "3911"
+    },
+    "OG": {
+        "name": "OG Fan Token",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20201223/f33acac6-22ce-4370-ac3e-251a13ce3b6d.png",
+        "cmp": "5309"
+    },
+    "OGN": {
+        "name": "OriginToken",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20200110/b0372bb4-3b77-4106-af0d-818d695f1734.png",
+        "cmp": "5117"
+    },
+    "OM": {
+        "name": "MANTRA DAO",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20210308/a2bc67db-9886-4ebd-84be-a1ed464a36ce.png",
+        "cmp": "6536"
+    },
+    "OMG": {
+        "name": "OMG Network",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20201221/e1a326dd-7108-410a-a7a2-4c68e1c1c5ac.png",
+        "cmp": "1808"
+    },
+    "ONE": {
+        "name": "Harmony",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191212/133e0469-3a96-4e3a-9c42-b4c5a4f8def8.png",
+        "cmp": "3945"
+    },
+    "ONG": {
+        "name": "Ontology Gas",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20200708/d70872ca-6262-4c29-9fe8-c9526fa2b447.png",
+        "cmp": "3217"
+    },
+    "ONT": {
+        "name": "Ontology",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20200708/e47d06e2-84f8-411d-b982-e2e5e18f37c2.png",
+        "cmp": "2566"
+    },
+    "ORN": {
+        "name": "Orion Protocol",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20200930/c7e92fa4-b577-4318-a80e-d7fd5d84b554.png",
+        "cmp": "5631"
+    },
+    "OST": {
+        "name": "OST",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191212/103a5e89-a316-4369-a541-365837b65b3b.png",
+        "cmp": "2296"
+    },
+    "OXT": {
+        "name": "Orchid",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20200921/912a4a9d-401d-415d-953d-215f21ae4e10.png",
+        "cmp": "5026"
+    },
+    "PAX": {
+        "name": "Paxos Standard",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20201110/6174f1df-0fb3-4a0a-a637-0bf4e9b9b97e.png",
+        "cmp": "3330"
+    },
+    "PAXG": {
+        "name": "PAX Gold",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20200825/18a638a4-aed3-4306-9e18-ad35e03d442a.png",
+        "cmp": "4705"
+    },
+    "PERL": {
+        "name": "Perlin",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20200824/5b4623be-8a3f-47be-9aad-8cf4e7faf108.png",
+        "cmp": "4293"
+    },
+    "PERP": {
+        "name": "Perpetual Protocol",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20210319/26868f12-867a-4470-96e0-fbe5bf10fab2.png",
+        "cmp": "6950"
+    },
+    "PHA": {
+        "name": "Phala.Network",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20210225/8b78389a-dd02-487a-a41b-ebc81acaf276.png",
+        "cmp": "6841"
+    },
+    "PHB": {
+        "name": "Phoenix Global",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191212/f898c013-6985-4f64-a815-f6f51fdd0047.png",
+        "cmp": "2112"
+    },
+    "PIVX": {
+        "name": "PIVX",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191212/c9437b51-0bb4-426e-8331-aadeebc45334.png",
+        "cmp": "1169"
+    },
+    "PNT": {
+        "name": "pNetwork",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20201016/4fb5d5a6-f640-4d1c-8e89-fb6d69483df0.png",
+        "cmp": "5794"
+    },
+    "POA": {
+        "name": "POA Network",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191212/369660a0-9258-40df-b5a9-b60f7eae1f4b.png",
+        "cmp": "2548"
+    },
+    "POE": {
+        "name": "Po.et",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191212/eb604aa6-bcd3-4292-a0a3-c2b14390cadd.png",
+        "cmp": "null"
+    },
+    "POLY": {
+        "name": "Polymath",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191212/0624f8ec-ffc2-4ec3-a9d0-f9d9542d65d3.png",
+        "cmp": "2496"
+    },
+    "POND": {
+        "name": "Marlin",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20210309/9f356b6f-f315-4f21-958c-d52f75cc9537.png",
+        "cmp": "7497"
+    },
+    "POWR": {
+        "name": "PowerLedger",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191212/5369043c-344b-4314-aee1-48bd3bd5db92.png",
+        "cmp": "2132"
+    },
+    "PPT": {
+        "name": "Populous",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191212/e997f2c5-1889-4245-ae0b-8746de3c33ea.png",
+        "cmp": "1789"
+    },
+    "PROM": {
+        "name": "Prometeus",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20201126/f92b97e3-c550-43c7-b5d1-fe6f5d55bda9.png",
+        "cmp": "4120"
+    },
+    "PROS": {
+        "name": "Prosper",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20210203/59540c6e-8c60-4255-9edb-861483a40b62.png",
+        "cmp": "8255"
+    },
+    "PSG": {
+        "name": "Paris Saint-Germain Fan Token",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20201214/08ef1fff-0899-4121-8f85-8606c7f1a55a.png",
+        "cmp": "5226"
+    },
+    "QKC": {
+        "name": "QuarkChain",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191212/c02edb28-1d4f-4231-b281-5d2d952791f9.png",
+        "cmp": "2840"
+    },
+    "QLC": {
+        "name": "QLC Chain",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191212/8a588026-0c22-49ac-bd88-2a0f9fe87b10.png",
+        "cmp": "2321"
+    },
+    "QSP": {
+        "name": "Quantstamp",
+        "logo": "https://ex.bnbstatic.com/images/20171121/image_1511257194898.png",
+        "cmp": "2212"
+    },
+    "QTUM": {
+        "name": "Qtum",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191212/aaf3b2ce-9598-4309-845c-15705bab2e8f.png",
+        "cmp": "1684"
+    },
+    "RAMP": {
+        "name": "RAMP",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20210406/ec3590c0-f23a-4884-b615-8989b170ff40.png",
+        "cmp": "7463"
+    },
+    "RCN": {
+        "name": "Ripio Credit Network",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191212/aeea2af9-52b6-4ef2-a577-9948ed97a1c9.png",
+        "cmp": "2096"
+    },
+    "RDN": {
+        "name": "Raiden Network Token",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191212/f20d1f4f-76d0-4897-8e72-b7489d24e3fa.png",
+        "cmp": "2161"
+    },
+    "REEF": {
+        "name": "Reef Finance",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20201222/510ce59d-419e-4d00-aa95-f96cdaa55fbe.png",
+        "cmp": "6951"
+    },
+    "REN": {
+        "name": "Ren",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191212/56cd876a-f097-41d8-83fa-63d0466d4a39.png",
+        "cmp": "2539"
+    },
+    "RENBTC": {
+        "name": "renBTC",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20201109/0fbd66ed-2153-405e-b0d3-e793a361392a.png",
+        "cmp": "5777"
+    },
+    "REP": {
+        "name": "Augur v2",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20200730/841ab3eb-e7ee-440d-a3a5-21a929d8fe3e.png",
+        "cmp": "1104"
+    },
+    "REQ": {
+        "name": "Request Network",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20200525/5d0022b8-8feb-4749-813f-fc08cbf16775.png",
+        "cmp": "2071"
+    },
+    "RIF": {
+        "name": "RSK Infrastructure Framework",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20210107/609585bb-e69c-4890-a6f9-8936445f15b5.png",
+        "cmp": "3701"
+    },
+    "RLC": {
+        "name": "iExecRLC",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191212/c1e87a46-4f03-4cbb-a97f-d120ac65e266.png",
+        "cmp": "1637"
+    },
+    "ROSE": {
+        "name": "Oasis Network",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20201119/34f9544c-f37e-4858-b16d-0e8cbecbcfbb.png",
+        "cmp": "7653"
+    },
+    "RSR": {
+        "name": "Reserve Rights",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20200825/e91381f4-92eb-46c4-933a-88e7986eebf4.png",
+        "cmp": "3964"
+    },
+    "RUNE": {
+        "name": "THORChain",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20200724/8f181a53-bacb-4a3a-a66a-e586a7b7b61a.png",
+        "cmp": "4157"
+    },
+    "RVN": {
+        "name": "Ravencoin",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191212/1f86ae3f-11ff-4ea2-a740-6f4017271baa.png",
+        "cmp": "2577"
+    },
+    "SAND": {
+        "name": "The Sandbox",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20200814/1d2520e3-766c-4031-b05b-3f88562b1b31.png",
+        "cmp": "6210"
+    },
+    "SC": {
+        "name": "Siacoin",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191212/cb2e4953-bd65-4556-8281-85fde3f1b8ff.png",
+        "cmp": "1042"
+    },
+    "SCRT": {
+        "name": "Secret",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20200925/0b4d35c1-3217-47a0-9d6c-179a2419e440.png",
+        "cmp": "5604"
+    },
+    "SFP": {
+        "name": "SafePal",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20210207/fc6ba18a-f881-4b35-b2c0-387dc4afb5d7.png",
+        "cmp": "8119"
+    },
+    "SHIB": {
+        "name": "SHIBA INU",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5994.png",
+        "cmp": "5994"
+    },
+    "SKL": {
+        "name": "SKALE Network",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20201130/491ab92e-74e5-4eeb-bb08-3e6c50b17467.png",
+        "cmp": "5691"
+    },
+    "SKY": {
+        "name": "Skycoin",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191212/266b9f65-184b-419a-927f-3c7019c50117.png",
+        "cmp": "1619"
+    },
+    "SLP": {
+        "name": "Small Love Potion",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20201110/ea4ad5e9-b5d2-4228-8697-3bb6a807f95e.png",
+        "cmp": "5824"
+    },
+    "SNGLS": {
+        "name": "Breaker",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191212/2bbe59eb-f943-47c9-a495-f97c61017e45.png",
+        "cmp": "1409"
+    },
+    "SNM": {
+        "name": "SONM",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191212/e20ac17d-e55b-4e28-ac1e-e3f26ee97775.png",
+        "cmp": "1723"
+    },
+    "SNT": {
+        "name": "Status",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191212/15362c95-01f4-4f97-a0f4-3ad5bc7c83d8.png",
+        "cmp": "1759"
+    },
+    "SNX": {
+        "name": "Synthetix Network Token",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20210128/2db1e7c6-b866-4884-aab7-7ef569fd8b12.png",
+        "cmp": "2586"
+    },
+    "SOL": {
+        "name": "Solana",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20200410/6caae4f1-f4c6-4486-b05b-442dd559f51f.jpg",
+        "cmp": "5426"
+    },
+    "SPARTA": {
+        "name": "Spartan Protocol",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20200929/91d5d6bc-15a3-4046-91ff-089ef271c9d1.png",
+        "cmp": "6992"
+    },
+    "SRM": {
+        "name": "Serum",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20200811/a66bcc5a-dd29-48e7-866d-17f841689f71.png",
+        "cmp": "6187"
+    },
+    "STEEM": {
+        "name": "Steem",
+        "logo": "https://ex.bnbstatic.com/images/20180131/image_1517365556047.png",
+        "cmp": "1230"
+    },
+    "STMX": {
+        "name": "StormX",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20200610/b4066689-f56c-4597-b72f-8e151b5cf1f3.png",
+        "cmp": "2297"
+    },
+    "STORJ": {
+        "name": "Storj",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191212/3ab8fc88-9920-49d5-83ee-9fc89f163c57.png",
+        "cmp": "1772"
+    },
+    "STPT": {
+        "name": "Standard Tokenization Protocol",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20200325/8950265a-96fc-4776-bff8-c2ae71e62eb3.png",
+        "cmp": "4006"
+    },
+    "STRAT": {
+        "name": "Stratis",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191212/239be534-315d-4c59-9770-91193efd74c1.png",
+        "cmp": "null"
+    },
+    "STRAX": {
+        "name": "Stratis",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20201112/bac5d0f8-ed62-49d3-a812-b35533beb6a2.png",
+        "cmp": "1343"
+    },
+    "STX": {
+        "name": "Stacks",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20201026/4e3dc7fb-c72a-4954-9a1a-f80989825643.png",
+        "cmp": "4847"
+    },
+    "SUN": {
+        "name": "SUN",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20200921/9b62ff8d-1b89-4432-9108-d62ade9223b6.png",
+        "cmp": "6990"
+    },
+    "SUPER": {
+        "name": "SuperFarm",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20210325/04be2a15-6b37-42c5-9a19-04b5d76ce410.png",
+        "cmp": "8290"
+    },
+    "SUSD": {
+        "name": "sUSD",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20201204/d061dac8-26c7-461d-a079-62953b7d7561.png",
+        "cmp": "null"
+    },
+    "SUSHI": {
+        "name": "Sushi",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20210113/b0d24a0a-1ed2-41e8-b5ec-c9ddafd82186.png",
+        "cmp": "6758"
+    },
+    "SWRV": {
+        "name": "Swerve",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20200915/c65ef9ef-bef0-4181-9b1c-3471d53a9e6a.png",
+        "cmp": "6901"
+    },
+    "SXP": {
+        "name": "Swipe",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20200707/df5343d4-f372-4517-977c-2834f557a325.png",
+        "cmp": "4279"
+    },
+    "SXPDOWN": {
+        "name": "SXPDOWN",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20201014/b8213b1b-f7fb-4d0a-b2f7-7ef944247be7.png",
+        "cmp": "null"
+    },
+    "SXPUP": {
+        "name": "SXPUP",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20201014/c2bde5a8-6cfd-407a-91b3-b7ed80fe86da.png",
+        "cmp": "null"
+    },
+    "SYS": {
+        "name": "Syscoin",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191212/e569672e-d530-4709-ab0d-727edd80ad00.png",
+        "cmp": "541"
+    },
+    "TCT": {
+        "name": "TokenClub Token",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20200120/2500c416-b5c7-45a3-93a0-ea3d74d06352.png",
+        "cmp": "2364"
+    },
+    "TFUEL": {
+        "name": "Theta Fuel",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191212/d1208752-7976-4679-9347-52958184aab8.png",
+        "cmp": "3822"
+    },
+    "THETA": {
+        "name": "Theta Token",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191212/75b4edca-7b00-489e-8433-0e1fc056c35a.png",
+        "cmp": "2416"
+    },
+    "TKO": {
+        "name": "Tokocrypto",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20210407/3856a2c7-1ea8-422f-94d5-26f5cb9c1f81.png",
+        "cmp": "9020"
+    },
+    "TLM": {
+        "name": "Alien Worlds",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20210406/733bc797-56d4-4872-94fb-8b0e325aa8b1.png",
+        "cmp": "9119"
+    },
+    "TNB": {
+        "name": "Time New Bank",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191212/7c5aa01d-bd63-4528-8e87-632c27e38ea0.png",
+        "cmp": "2235"
+    },
+    "TNT": {
+        "name": "Tierion",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191212/26f06c8c-dbc4-4f6d-8b31-2273a621dbcb.png",
+        "cmp": "null"
+    },
+    "TOMO": {
+        "name": "TomoChain",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20201110/2a861e8b-b448-42cc-a21a-58fddb9186b5.png",
+        "cmp": "2570"
+    },
+    "TRB": {
+        "name": "Tellor Tributes",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20200827/2c845701-526b-45ba-89af-8cbf9ad1c8e5.png",
+        "cmp": "4944"
+    },
+    "TROY": {
+        "name": "Troy",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191204/25ccb5d6-0583-4e23-8669-fcad9fbd806f.jpg",
+        "cmp": "5007"
+    },
+    "TRU": {
+        "name": "TrueFi",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20210119/f5395ef0-4177-4608-8a70-9dac73fbbc50.png",
+        "cmp": "7725"
+    },
+    "TRX": {
+        "name": "TRON",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20201110/dd9332e2-0a23-4228-89b2-50d188a09e2b.png",
+        "cmp": "1958"
+    },
+    "TUSD": {
+        "name": "TrueUSD",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20201015/b840603c-afc6-4392-be64-18fca743326b.png",
+        "cmp": "2563"
+    },
+    "TVK": {
+        "name": "Terra Virtua",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20210226/21a272a5-175d-4c0d-b83d-028688532db3.png",
+        "cmp": "8037"
+    },
+    "TWT": {
+        "name": "Trust Wallet Token",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20201221/4e0646cc-f82d-4318-b520-f03d19816bd9.png",
+        "cmp": "5964"
+    },
+    "UFT": {
+        "name": "UniLend",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20210223/9f038d5b-640d-417e-800b-87ff1b39ffca.png",
+        "cmp": "7412"
+    },
+    "UMA": {
+        "name": "UMA",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20200909/98876d01-701c-4171-b145-47d18b829f07.png",
+        "cmp": "5617"
+    },
+    "UNFI": {
+        "name": "Unifi Protocol DAO",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20201117/6d7563cb-28f5-4b93-a4ce-5297415555cb.png",
+        "cmp": "7672"
+    },
+    "UNI": {
+        "name": "Uniswap",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20201110/1992e2e5-4f39-4a1a-a891-fe8afefc1e59.png",
+        "cmp": "7083"
+    },
+    "USDC": {
+        "name": "USD Coin",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20201110/4cf7d633-92fb-4d37-80ed-458c7d1ea410.png",
+        "cmp": "3408"
+    },
+    "USDT": {
+        "name": "TetherUS",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20210122/2b5c7d80-7bcd-4cfb-8bd9-d1760a752afc.png",
+        "cmp": "825"
+    },
+    "UTK": {
+        "name": "Utrust",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20201002/fc6aa39a-befd-4cab-afc1-60be3673b765.png",
+        "cmp": "2320"
+    },
+    "VET": {
+        "name": "VeChain",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20201110/0e0d6031-50c4-4c70-9638-4816e208b96d.png",
+        "cmp": "3077"
+    },
+    "VIA": {
+        "name": "Viacoin",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191212/c51df34d-e8a9-46d4-9794-af17b85c7fbb.png",
+        "cmp": "470"
+    },
+    "VIB": {
+        "name": "Viberate",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191212/37e02027-b149-496d-b707-1399b75ca83b.png",
+        "cmp": "2019"
+    },
+    "VIBE": {
+        "name": "VIBE",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191212/abc439a1-6031-4f6a-83f8-b9e843f825c0.png",
+        "cmp": "1983"
+    },
+    "VIDT": {
+        "name": "VIDT Datalink",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20201009/93977fa8-14a0-4105-9966-29616cb7f7aa.png",
+        "cmp": "3845"
+    },
+    "VITE": {
+        "name": "VITE",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20210311/34d1c657-db99-4c60-acf9-04285ac1749e.png",
+        "cmp": "2937"
+    },
+    "VTHO": {
+        "name": "VeThor Token",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191212/50c46ed0-bc36-45ef-a9fc-110f1c3c85fb.png",
+        "cmp": "3012"
+    },
+    "WABI": {
+        "name": "TAEL",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191212/5d9c01ff-008a-4ae8-98ff-ffcae4e21043.png",
+        "cmp": "2267"
+    },
+    "WAN": {
+        "name": "Wanchain",
+        "logo": "https://ex.bnbstatic.com/images/20180323/image_1521771705432.png",
+        "cmp": "2606"
+    },
+    "WAVES": {
+        "name": "Waves",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191212/4a19ba9d-d60b-4ebd-a765-bdeeda0b7de1.png",
+        "cmp": "1274"
+    },
+    "WBTC": {
+        "name": "Wrapped Bitcoin",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20200831/2cd9e66b-357d-41f7-a093-89d24bb012aa.png",
+        "cmp": "3717"
+    },
+    "WIN": {
+        "name": "WINK",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191212/9e5470a4-ca68-469d-a78d-abdcabbf5c51.png",
+        "cmp": "4206"
+    },
+    "WING": {
+        "name": "Wing Token",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20200914/68dd9a78-f35b-433c-a33d-31d6fdbc4164.png",
+        "cmp": "7048"
+    },
+    "WNXM": {
+        "name": "Wrapped NXM",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20200826/94f806e9-8460-45bd-929c-faa6c07fa2e0.png",
+        "cmp": "null"
+    },
+    "WPR": {
+        "name": "WePower",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191212/c28fa875-5ab3-449d-b11c-214cdf25835b.png",
+        "cmp": "2511"
+    },
+    "WRX": {
+        "name": "WazirX",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20200203/2b2bec60-c9af-46a0-92b2-64c64ed936f2.png",
+        "cmp": "5161"
+    },
+    "WTC": {
+        "name": "Walton",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191212/e632acdf-5f2c-4cde-8495-89d65e47db14.png",
+        "cmp": "1925"
+    },
+    "XEM": {
+        "name": "NEM",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191212/a56dc2d1-00ce-42e4-9e82-550e839ab82d.png",
+        "cmp": "873"
+    },
+    "XLM": {
+        "name": "Stellar Lumens",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20201110/ed48f689-8b24-4aa9-bc38-6501f6b0f225.png",
+        "cmp": "512"
+    },
+    "XMR": {
+        "name": "Monero",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191212/8d01ef47-63e6-47ac-8f6c-411ccb4e7a18.png",
+        "cmp": "328"
+    },
+    "XRP": {
+        "name": "Ripple",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20201110/4766a9cc-8545-4c2b-bfa4-cad2be91c135.png",
+        "cmp": "52"
+    },
+    "XTZ": {
+        "name": "Tezos",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20201110/e3a871e5-049f-47e5-bd60-9852b163f0ee.png",
+        "cmp": "2011"
+    },
+    "XVG": {
+        "name": "Verge",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20201110/723b3e38-b779-40da-a921-9e30d0b2f996.png",
+        "cmp": "693"
+    },
+    "XVS": {
+        "name": "Venus",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20201111/ee4348a1-169f-4ba9-8f49-055d1279c674.png",
+        "cmp": "7288"
+    },
+    "YFI": {
+        "name": "yearn.finance",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20200810/876bb636-935c-45c6-8f93-762c65985e9a.png",
+        "cmp": "5864"
+    },
+    "YFII": {
+        "name": "DFI.Money",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20200901/345109e0-723a-4c25-9016-fc69ea4b141e.png",
+        "cmp": "5957"
+    },
+    "YOYO": {
+        "name": "YOYOW",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191212/e7d0e15c-8d56-4ce5-889b-20ce7856750d.png",
+        "cmp": "null"
+    },
+    "ZEC": {
+        "name": "Zcash",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/image/admin_mgs_image_upload/20201110/4d538dc7-6543-4bd0-ab9a-cfc37363cab8.png",
+        "cmp": "1437"
+    },
+    "ZEN": {
+        "name": "Horizen",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191212/050e8aeb-2c87-4c50-9b45-d3b21455f7b0.png",
+        "cmp": "1698"
+    },
+    "ZIL": {
+        "name": "Zilliqa",
+        "logo": "https://static-file-1259603563.file.myqcloud.com/images/20191212/80289eb9-ed6f-47ef-867e-8de7c485bcbc.png",
+        "cmp": "2469"
+    },
+    "ZRX": {
+        "name": "0x",
+        "logo": "https://ex.bnbstatic.com/images/20171025/image_1508915067776.png",
+        "cmp": "1896"
+    }
+}
