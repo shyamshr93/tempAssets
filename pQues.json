@@ -1,0 +1,362 @@
+[
+    {
+        "question": "Who developed Python Programming Language?",
+        "options": ["Wick van Rossum", "Rasmus Lerdorf", "Guido van Rossum", "Niene Stom"],
+        "correct_answer": 2,
+        "level": "b"
+    },
+    {
+        "question": "Which type of Programming does Python support?",
+        "options": ["object-oriented programming", "structured programming", "functional programming", "all of the mentioned"],
+        "correct_answer": 3,
+        "level": "b"
+    },
+    {
+        "question": "Is Python case sensitive when dealing with identifiers?",
+        "options": ["no", "yes", "machine dependent", "none of the mentioned"],
+        "correct_answer": 1,
+        "level": "b"
+    },
+    {
+        "question": "Which of the following is the correct extension of the Python file?",
+        "options": [".python", ".pl", ".py", ".p"],
+        "correct_answer": 2,
+        "level": "b"
+    },
+    {
+        "question": "Is Python code compiled or interpreted?",
+        "options": ["Python code is both compiled and interpreted", "Python code is neither compiled nor interpreted", "Python code is only compiled", "Python code is only interpreted"],
+        "correct_answer": 0,
+        "level": "b"
+    },
+    {
+        "question": "All keywords in Python are in _________",
+        "options": ["Capitalized", "lower case", "UPPER CASE", "None of the mentioned"],
+        "correct_answer": 1,
+        "level": "b"
+    },
+    {
+        "question": "What will be the value of the following Python expression? 4 + 3 % 5",
+        "options": ["7", "2", "4", "1"],
+        "correct_answer": 0,
+        "level": "b"
+    },
+    {
+        "question": "Which of the following is used to define a block of code in Python language?",
+        "options": ["Indentation", "Key", "Brackets", "All of the mentioned"],
+        "correct_answer": 0,
+        "level": "b"
+    },
+    {
+        "question": "Which keyword is used for function in Python language?",
+        "options": ["Function", "def", "Fun", "Define"],
+        "correct_answer": 1,
+        "level": "b"
+    },
+    {
+        "question": "Which of the following character is used to give single-line comments in Python?",
+        "options": ["//", "#", "!", "/*"],
+        "correct_answer": 1,
+        "level": "b"
+    },
+    {
+        "question": "What will be the output of the following Python code?\ni = 1\nwhile True:\n    if i%3 == 0:\n        break\n    print(i)\n    i + = 1",
+        "options": ["1 2 3", "error", "1 2", "none of the mentioned"],
+        "correct_answer": 2,
+        "level": "b"
+    },
+    {
+        "question": "Which of the following functions can help us to find the version of Python that we are currently working on?",
+        "options": ["sys.version(1)", "sys.version(0)", "sys.version()", "sys.version"],
+        "correct_answer": 2,
+        "level": "b"
+    },
+    {
+        "question": "Python supports the creation of anonymous functions at runtime, using a construct called __________",
+        "options": ["pi", "anonymous", "lambda", "none of the mentioned"],
+        "correct_answer": 2,
+        "level": "b"
+    },
+    {
+        "question": "What is the order of precedence in Python?",
+        "options": ["Exponential, Parentheses, Multiplication, Division, Addition, Subtraction", "Exponential, Parentheses, Division, Multiplication, Addition, Subtraction", "Parentheses, Exponential, Multiplication, Division, Subtraction, Addition", "Parentheses, Exponential, Multiplication, Division, Addition, Subtraction"],
+        "correct_answer": 3,
+        "level": "b"
+    },
+    {
+        "question": "What will be the output of the following Python code snippet if x=1?\nx<<2",
+        "options": ["4", "2", "1", "8"],
+        "correct_answer": 3,
+        "level": "b"
+    },
+    {
+        "question": "What does pip stand for in Python?",
+        "options": ["Pip Installs Python", "Pip Installs Packages", "Preferred Installer Program", "All of the mentioned"],
+        "correct_answer": 1,
+        "level": "b"
+    },
+    {
+        "question": "Which of the following is true for variable names in Python?",
+        "options": ["underscore and ampersand are the only two special characters allowed", "unlimited length", "all private members must have leading and trailing underscores", "none of the mentioned"],
+        "correct_answer": 1,
+        "level": "b"
+    },
+    {
+        "question": "What are the values of the following Python expressions?\n2**(3**2)\n(2**3)**2\n2**3**2",
+        "options": ["512, 64, 512", "512, 512, 512", "64, 512, 64", "64, 64, 64"],
+        "correct_answer": 0,
+        "level": "b"
+    },
+    {
+        "question": "Which of the following is the truncation division operator in Python?",
+        "options": ["|", "//", "/", "%"],
+        "correct_answer": 1,
+        "level": "b"
+    },
+    {
+        "question": "What will be the output of the following Python code?\nl=[1, 0, 2, 0, 'hello', '', []]\nlist(filter(bool, l))",
+        "options": ["[1, 0, 2, ‘hello’, ”, []]", "Error", "[1, 2, ‘hello’]", "[1, 0, 2, 0, ‘hello’, ”, []]"],
+        "correct_answer": 3,
+        "level": "b"
+    },
+    {
+        "question": "Which of the following functions is a built-in function in Python?",
+        "options": ["factorial()", "print()", "seed()", "sqrt()"],
+        "correct_answer": 1,
+        "level": "i"
+    },
+    {
+        "question": "Which of the following is the use of id() function in Python?",
+        "options": ["Every object doesn’t have a unique id", "Id returns the identity of the object", "All of the mentioned", "None of the mentioned"],
+        "correct_answer": 1,
+        "level": "i"
+    },
+    {
+        "question": "The following Python program can work with ____ parameters.\ndef f(x):\n    def f1(*args, **kwargs):\n           print(\"Sanfoundry\")\n           return x(*args, **kwargs)\n    return f1",
+        "options": ["any number of", "0", "1", "2"],
+        "correct_answer": 0,
+        "level": "i"
+    },
+    {
+        "question": "What will be the output of the following Python function?\nmin(max(False,-3,-4), 2,7)",
+        "options": ["-4", "-3", "2", "False"],
+        "correct_answer": 0,
+        "level": "i"
+    },
+    {
+        "question": "Which of the following is not a core data type in Python programming?",
+        "options": ["Tuples", "Lists", "Class", "Dictionary"],
+        "correct_answer": 2,
+        "level": "i"
+    },
+    {
+        "question": "What will be the output of the following Python expression if x=56.236?\nprint(\"%.2f\"%x)",
+        "options": ["56.236", "56.23", "56.0000", "56.24"],
+        "correct_answer": 1,
+        "level": "i"
+    },
+    {
+        "question": "Which of these is the definition for packages in Python?",
+        "options": ["A set of main modules", "A folder of Python modules", "A number of files containing Python definitions and statements", "A set of programs making use of Python modules"],
+        "correct_answer": 1,
+        "level": "i"
+    },
+    {
+        "question": "What will be the output of the following Python function?\nlen([\"hello\",2, 4, 6])",
+        "options": ["Error", "6", "4", "3"],
+        "correct_answer": 2,
+        "level": "i"
+    },
+    {
+        "question": "What will be the output of the following Python code?\nx = 'abcd'\nfor i in x:\n    print(i.upper())",
+        "options": ["a\nB\nC\nD", "a b c d", "error", "A\nB\nC\nD"],
+        "correct_answer": 3,
+        "level": "i"
+    },
+    {
+        "question": "What is the order of namespaces in which Python looks for an identifier?",
+        "options": ["Python first searches the built-in namespace, then the global namespace and finally the local namespace", "Python first searches the built-in namespace, then the local namespace and finally the global namespace", "Python first searches the local namespace, then the global namespace and finally the built-in namespace", "Python first searches the global namespace, then the local namespace and finally the built-in namespace"],
+        "correct_answer": 0,
+        "level": "i"
+    },
+    {
+        "question": "What will be the output of the following Python code snippet?\nfor i in [1, 2, 3, 4][::-1]:\n    print(i, end=' ')",
+        "options": ["4 3 2 1", "error", "1 2 3 4", "none of the mentioned"],
+        "correct_answer": 0,
+        "level": "i"
+    },
+    {
+        "question": "What will be the output of the following Python statement?\n>>>'a'+'bc'",
+        "options": ["bc", "abc", "a", "bca"],
+        "correct_answer": 1,
+        "level": "i"
+    },
+    {
+        "question": "Which function is called when the following Python program is executed?\nf = foo()\nformat(f)",
+        "options": ["str()", "format()", "__str__()", "__format__()"],
+        "correct_answer": 1,
+        "level": "i"
+    },
+    {
+        "question": "Which one of the following is not a keyword in Python language?",
+        "options": ["pass", "eval", "assert", "nonlocal"],
+        "correct_answer": 1,
+        "level": "i"
+    },
+    {
+        "question": "What will be the output of the following Python code?\nclass tester:\n    def __init__(self, id):\n        self.id = str(id)\n        id=\"224\"\ntemp = tester(12)\nprint(temp.id)",
+        "options": ["12", "224", "None", "Error"],
+        "correct_answer": 0,
+        "level": "i"
+    },
+    {
+        "question": "What will be the output of the following Python program?\ndef foo(x):\n    x[0] = ['def']\n    x[1] = ['abc']\n    return id(x)\nq = ['abc', 'def']\nprint(id(q) == foo(q))",
+        "options": ["Error", "None", "False", "True"],
+        "correct_answer": 3,
+        "level": "i"
+    },
+    {
+        "question": "Which module in the python standard library parses options received from the command line?",
+        "options": ["getarg", "getopt", "main", "os"],
+        "correct_answer": 1,
+        "level": "i"
+    },
+    {
+        "question": "What will be the output of the following Python program?\nz=set('abc')\nz.add('san')\nz.update(set(['p', 'q']))\nz",
+        "options": ["{‘a’, ‘c’, ‘c’, ‘p’, ‘q’, ‘s’, ‘a’, ‘n’}", "{‘abc’, ‘p’, ‘q’, ‘san’}", "{‘a’, ‘b’, ‘c’, ‘p’, ‘q’, ‘san’}", "{‘a’, ‘b’, ‘c’, [‘p’, ‘q’], ‘san}"],
+        "correct_answer": 2,
+        "level": "i"
+    },
+    {
+        "question": "What arithmetic operators cannot be used with strings in Python?",
+        "options": ["*", "–", "+", "All of the mentioned"],
+        "correct_answer": 3,
+        "level": "i"
+    },
+    {
+        "question": "What will be the output of the following Python code?\nprint(\"abc. DEF\".capitalize())",
+        "options": ["Abc. def", "abc. def", "Abc. Def", "ABC. DEF"],
+        "correct_answer": 2,
+        "level": "i"
+    },
+    {
+        "question": "Which of the following statements is used to create an empty set in Python?",
+        "options": ["( )", "[ ]", "{ }", "set()"],
+        "correct_answer": 3,
+        "level": "a"
+    },
+    {
+        "question": "What will be the value of ‘result’ in the following Python program?\nlist1 = [1,2,3,4]\nlist2 = [2,4,5,6]\nlist3 = [2,6,7,8]\nresult = list()\nresult.extend(i for i in list1 if i not in (list2+list3) and i not in result)\nresult.extend(i for i in list2 if i not in (list1+list3) and i not in result)\nresult.extend(i for i in list3 if i not in (list1+list2) and i not in result)",
+        "options": ["[1, 3, 5, 7, 8]", "[1, 7, 8]", "[1, 2, 4, 7, 8]", "error"],
+        "correct_answer": 1,
+        "level": "a"
+    },
+    {
+        "question": "To add a new element to a list we use which Python command?",
+        "options": ["list1.addEnd(5)", "list1.addLast(5)", "list1.append(5)", "list1.add(5)"],
+        "correct_answer": 2,
+        "level": "a"
+    },
+    {
+        "question": "What will be the output of the following Python code?\nprint('*', 'abcde'.center(6), '*', sep='')",
+        "options": ["* abcde *", "*abcde *", "* abcde*", "* abcde *"],
+        "correct_answer": 0,
+        "level": "a"
+    },
+    {
+        "question": "What will be the output of the following Python code?\nlist1 = [1, 3]\nlist2 = list1\nlist1[0] = 4\nprint(list2)",
+        "options": ["[1, 4]", "[1, 3, 4]", "[4, 3]", "[1, 3]"],
+        "correct_answer": 0,
+        "level": "a"
+    },
+    {
+        "question": "Which one of the following is the use of a function in Python?",
+        "options": ["Functions don’t provide better modularity for your application", "You can’t also create your own functions", "Functions are reusable pieces of programs", "All of the mentioned"],
+        "correct_answer": 2,
+        "level": "a"
+    },
+    {
+        "question": "Which of the following Python statements will result in the output: 6?\nA = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]",
+        "options": ["A[2][1]", "A[1][2]", "A[3][2]", "A[2][3]"],
+        "correct_answer": 1,
+        "level": "a"
+    },
+    {
+        "question": "What is the maximum possible length of an identifier in Python?",
+        "options": ["79 characters", "31 characters", "63 characters", "none of the mentioned"],
+        "correct_answer": 3,
+        "level": "a"
+    },
+    {
+        "question": "What will be the output of the following Python program?\ni = 0\nwhile i < 5:\n    print(i)\n    i += 1\n    if i == 3:\n        break\nelse:\n    print(0)",
+        "options": ["error", "0 1 2 0", "0 1 2", "none of the mentioned"],
+        "correct_answer": 2,
+        "level": "a"
+    },
+    {
+        "question": "What will be the output of the following Python code?\nx = 'abcd'\nfor i in range(len(x)):\n    print(i)",
+        "options": ["error", "1 2 3 4", "a b c d", "0 1 2 3"],
+        "correct_answer": 3,
+        "level": "a"
+    },
+    {
+        "question": "What are the two main types of functions in Python?",
+        "options": ["System function", "Custom function", "Built-in function & User-defined function", "User function"],
+        "correct_answer": 2,
+        "level": "a"
+    },
+    {
+        "question": "What will be the output of the following Python program?\n\tdef addItem(listParam):\n\t    listParam += [1]\n\t\n\tmylist = [1, 2, 3, 4]\n\taddItem(mylist)\n\tprint(len(mylist))",
+        "options": ["5", "8", "2", "1"],
+        "correct_answer": 0,
+        "level": "a"
+    },
+    {
+        "question": "Which of the following is a Python tuple?",
+        "options": ["{1, 2, 3}", "{}", "[1, 2, 3]", "(1, 2, 3)"],
+        "correct_answer": 3,
+        "level": "a"
+    },
+    {
+        "question": "What will be the output of the following Python code snippet?\nz=set('abc$de')\n'a' in z",
+        "options": ["Error", "True", "False", "No output"],
+        "correct_answer": 1,
+        "level": "a"
+    },
+    {
+        "question": "What will be the output of the following Python expression?\nround(4.576)",
+        "options": ["4", "4.6", "5", "4.5"],
+        "correct_answer": 2,
+        "level": "a"
+    },
+    {
+        "question": "Which of the following is a feature of Python DocString?",
+        "options": ["In Python, all functions should have a docstring", "Docstrings can be accessed by the __doc__ attribute on objects", "It provides a convenient way of associating documentation with Python modules, functions, classes, and methods", "All of the mentioned"],
+        "correct_answer": 3,
+        "level": "a"
+    },
+    {
+        "question": "What will be the output of the following Python code?\nprint(\"Hello {0[0]} and {0[1]}\".format(('foo', 'bin')))",
+        "options": ["Hello (‘foo’, ‘bin’) and (‘foo’, ‘bin’)", "Error", "Hello foo and bin", "None of the mentioned"],
+        "correct_answer": 2,
+        "level": "a"
+    },
+    {
+        "question": "What is the output of print(math.pow(3, 2))?",
+        "options": ["9.0", "None", "9", "None of the mentioned"],
+        "correct_answer": 0,
+        "level": "a"
+    },
+    {
+        "question": "Which of the following is the use of id() function in Python?",
+        "options": ["Every object in Python doesn’t have a unique id", "In Python, Id function returns the identity of the object", "None of the mentioned", "All of the mentioned"],
+        "correct_answer": 1,
+        "level": "a"
+    },
+    {
+        "question": "What will be the output of the following Python code?\nx = [[0], [1]]\nprint((' '.join(list(map(str, x))),))",
+        "options": ["01", "[0] [1]", "(’01’)", "(‘[0] [1]’,)"],
+        "correct_answer": 3,
+        "level": "a"
+    }
+]
