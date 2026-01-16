@@ -1,1 +1,1 @@
-.secondary-sticky-nav aem-GridColumn aem-GridColumn--default--12, .section-master section-master--breadth-none section-master--density-compact aem-GridColumn aem-GridColumn--default--12 {display: none;}
+.secondary-sticky-nav.aem-GridColumn.aem-GridColumn--default--12, .section-master.section-master--breadth-none.section-master--density-compact.aem-GridColumn.aem-GridColumn--default--12, .universalfooter.aem-GridColumn.aem-GridColumn--default--12 {display: none;}
